@@ -12937,27 +12937,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Ryan Newman\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Users\\rishi\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ryan Newman\\Desktop\\MUD Maker\\Mud-Project\\MVC\\Mud\\Mud\\Mud.csproj",
+      "projectUniqueName": "C:\\Users\\rishi\\Mud-Project\\MVC\\Mud\\Mud\\Mud.csproj",
       "projectName": "Mud",
-      "projectPath": "C:\\Users\\Ryan Newman\\Desktop\\MUD Maker\\Mud-Project\\MVC\\Mud\\Mud\\Mud.csproj",
-      "packagesPath": "C:\\Users\\Ryan Newman\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ryan Newman\\Desktop\\MUD Maker\\Mud-Project\\MVC\\Mud\\Mud\\obj\\",
+      "projectPath": "C:\\Users\\rishi\\Mud-Project\\MVC\\Mud\\Mud\\Mud.csproj",
+      "packagesPath": "C:\\Users\\rishi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\rishi\\Mud-Project\\MVC\\Mud\\Mud\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Ryan Newman\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\rishi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"
@@ -13003,16 +13000,10 @@
           }
         },
         "imports": [
-          "net461",
-          "net462",
-          "net47",
-          "net471",
-          "net472",
-          "net48"
+          "net461"
         ],
         "assetTargetFallback": true,
-        "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        "warn": true
       }
     }
   }
