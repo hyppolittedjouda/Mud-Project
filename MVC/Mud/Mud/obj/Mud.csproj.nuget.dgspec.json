@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ibrah\\OneDrive\\Desktop\\MUD\\Mud-Project\\MVC\\Mud\\Mud\\Mud.csproj": {}
+    "C:\\Users\\matth\\OneDrive\\Desktop\\MUD Maker\\Mud-Project\\MVC\\Mud\\Mud\\Mud.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ibrah\\OneDrive\\Desktop\\MUD\\Mud-Project\\MVC\\Mud\\Mud\\Mud.csproj": {
+    "C:\\Users\\matth\\OneDrive\\Desktop\\MUD Maker\\Mud-Project\\MVC\\Mud\\Mud\\Mud.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ibrah\\OneDrive\\Desktop\\MUD\\Mud-Project\\MVC\\Mud\\Mud\\Mud.csproj",
+        "projectUniqueName": "C:\\Users\\matth\\OneDrive\\Desktop\\MUD Maker\\Mud-Project\\MVC\\Mud\\Mud\\Mud.csproj",
         "projectName": "Mud",
-        "projectPath": "C:\\Users\\ibrah\\OneDrive\\Desktop\\MUD\\Mud-Project\\MVC\\Mud\\Mud\\Mud.csproj",
-        "packagesPath": "C:\\Users\\ibrah\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ibrah\\OneDrive\\Desktop\\MUD\\Mud-Project\\MVC\\Mud\\Mud\\obj\\",
+        "projectPath": "C:\\Users\\matth\\OneDrive\\Desktop\\MUD Maker\\Mud-Project\\MVC\\Mud\\Mud\\Mud.csproj",
+        "packagesPath": "C:\\Users\\matth\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\matth\\OneDrive\\Desktop\\MUD Maker\\Mud-Project\\MVC\\Mud\\Mud\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\ibrah\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\matth\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
