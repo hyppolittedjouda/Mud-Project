@@ -132,3 +132,4 @@ C:\Users\Ryan Newman\Desktop\MUD Maker\Mud-Project\MVC\Mud\Mud\obj\Debug\netcore
 C:\Users\Ryan Newman\Desktop\MUD Maker\Mud-Project\MVC\Mud\Mud\obj\Debug\netcoreapp2.2\Mud.csproj.CopyComplete
 C:\Users\Ryan Newman\Desktop\MUD Maker\Mud-Project\MVC\Mud\Mud\obj\Debug\netcoreapp2.2\Razor\Views\Home\About.cshtml.g.cs
 C:\Users\Ryan Newman\Desktop\MUD Maker\Mud-Project\MVC\Mud\Mud\obj\Debug\netcoreapp2.2\Razor\Views\Home\Gameplay.cshtml.g.cs
+C:\Users\Ryan Newman\Desktop\MUD Maker\Mud-Project\MVC\Mud\Mud\obj\Debug\netcoreapp2.2\Razor\Views\Home\PVE.cshtml.g.cs

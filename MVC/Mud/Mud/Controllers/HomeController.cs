@@ -27,6 +27,10 @@ namespace Mud.Controllers
         {
             return View();
         }
+        public IActionResult PVE()
+        {
+            return View();
+        }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
